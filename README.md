@@ -91,7 +91,7 @@ This overview table enables quick comparison across:
 
 This view helps reviewers **prioritize which organizations deserve deeper review**.
 
-![Dashboard Overview](images/overview_dashboard.JPG)
+![Dashboard Overview](images/overview_dashboard.jpg)
 
 ---
 
@@ -105,7 +105,7 @@ For each organization, the tool generates:
 
 Scores are normalized to a 0–10 scale and displayed clearly for fast interpretation.
 
-![Impact Scores](images/impact_scores.JPG)
+![Impact Scores](images/impact_scores.jpg)
 
 ---
 
@@ -117,7 +117,7 @@ Each numeric score is accompanied by a **clear, human-readable rationale** expla
 
 This ensures reviewers can **understand *why* a score was assigned**, rather than treating the model as a black box.
 
-![Scoring Rationales](images/scoring_rationales.JPG)
+![Scoring Rationales](images/scoring_rationales.jpg)
 
 ---
 
@@ -130,7 +130,7 @@ To support reviewer judgment, the tool optionally surfaces **external reference 
 
 External information is provided **for context only** and does **not directly drive scoring**, helping maintain scoring integrity and reduce hallucination risk.
 
-![External Research](images/external_research.JPG)
+![External Research](images/external_research.jpg)
 
 ---
 
